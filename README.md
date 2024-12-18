@@ -8,7 +8,6 @@ A fully functional clone of Airbnb built using the MERN (MongoDB, Express.js, Re
 - *Booking System*: Booking functionality with calendar integration for availability.  
 - *Payment Integration*: Online payment support using a third-party API.  
 - *Responsive Design*: Optimized for mobile, tablet, and desktop devices.  
-- *Location-Based Features*: Google Maps integration for property locations.
 
 ---
 
